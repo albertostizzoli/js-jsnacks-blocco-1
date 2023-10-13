@@ -1,17 +1,8 @@
 //  ESERCIZIO TUTTI FRUTTI
 
 //Array
-const fruits = [
-    'Banana',
-    'Mela',
-    'Pera',
-    'Ciliegia',
-    'Arancia',
-    'Mandarino',
-    'Cocomero',
-    'Limone',
-    'Fragola'
-]
+const fruits = ['Banana', 'Mela', 'Pera', 'Ciliegia', 'Arancia', 'Mandarino', 'Cocomero', 'Limone', 'Fragola'];
+ 
 
 fruits.push("Pesca");
 document.getElementById("pesca").innerHTML = fruits;
